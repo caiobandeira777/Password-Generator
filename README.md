@@ -1,0 +1,1 @@
+A simple and customizable password generator. The user chooses how many letters, numbers, and symbols they want, and the program creates a strong, random password. Perfect for securing accounts and personal information quickly and easily!
